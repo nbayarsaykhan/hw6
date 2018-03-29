@@ -2,7 +2,7 @@
 
 ## 1. Wildcard search
 
-![](file:///C:/Users/Nka/Downloads/Wildcard_search.pdf)
+![Wildcard search](file:///C:/Users/Nka/Downloads/Wildcard_search.pdf)
 
 ## 2.
 
