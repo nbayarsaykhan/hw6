@@ -2,7 +2,7 @@
 
 ## 1. Wildcard search
 
-![](file:///C:/Users/pc/Downloads/29747182_747442355444941_1141204747_o.pdf)
+![](https://github.com/nbayarsaykhan/hw6/blob/master/wildcard_search.png)
 
 ## 2.
 
