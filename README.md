@@ -2,7 +2,7 @@
 
 ## 1. Wildcard search
 
-![Wildcard search](file:///C:/Users/Nka/Downloads/Wildcard_search.pdf)
+![](https://www.yourtango.com/2013182354/love-quotes-inspirational-famous)
 
 ## 2.
 
